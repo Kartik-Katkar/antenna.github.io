@@ -1,0 +1,52 @@
+#headers {
+    background-color: #B0C4DE;
+}
+
+.heading1{
+    text-align: center; 
+    background-color: cadetblue;
+    padding: 25px;
+    font-size: 50px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.heading2{
+    font-size: 25px;
+    font-weight: 600;
+    padding: 25px;
+}
+
+.heading3{
+    font-size: 25px;
+    margin: 5px;
+    padding: 25px;
+    color: dimgray;
+    font-weight: 600;
+}
+
+.list{
+    font-size: 20px;
+    margin: 5px;
+    padding: 25px;
+    color: gray;
+}
+
+#data{
+    font-size: 20px;
+    margin: 5px;
+    padding: 25px;
+    color: gray;
+}
+
+#image{
+    float: right;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+
+#section1{
+    background-color: #E0E0E0;
+}

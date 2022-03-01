@@ -1,0 +1,28 @@
+body{
+    background-color: cyan;
+}
+.heading{
+    background-color: rgb(20, 192, 204);
+    text-align: center;
+    height: 200px;
+    padding: 60px;
+    color: red;
+    font-size: 40px;
+
+}
+.heading2{
+    text-align: center;
+    background-color: black;
+    height: 100px;
+    color: white;
+    font-size: 30px;
+    padding-top: 30px;
+
+}
+.First:hover{
+    color: blue;
+}
+.First{
+    padding-left: 20px;
+    font-size: 25px;
+}

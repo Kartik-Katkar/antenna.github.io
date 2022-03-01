@@ -1,0 +1,63 @@
+.container{
+    margin: 10px;
+    padding: 5px;
+}
+.about{
+    font-size: 20px;
+    padding: 10px;
+    margin: 3px;
+ }
+ .uses{
+    font-size: 20px;
+    padding: 10px;
+    margin: 3px;
+    
+
+ }
+ .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+  .steps{
+    display: block;
+    width: 20%;
+  }
+
+  #heading1 {
+    
+    background-color: #87CEFF;
+    padding: 5px;
+    font-size: 50px;
+    text-align: center;
+    font-weight: 600;
+   
+  }
+  #section1{
+      background-color: #E0E0E0;
+  }
+  .steps{
+      width: 20%;
+      float: left;
+      display: inline;
+      padding-left: 50px;
+  }
+  #heading2{
+    padding: 5px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 600;
+      
+      }
+  #headers{
+    background-color: #B0C4DE;
+  }
+
+  .data{
+    font-size: 20px;
+    padding: 10px;
+    margin: 3px;
+    text-align: center;
+    
+  }

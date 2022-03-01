@@ -1,0 +1,46 @@
+h1{
+    color: red;
+    
+    background-color: seagreen;
+    height: 180px;
+    text-align: center ;
+    
+}
+ 
+h2{
+    color: white;
+    background-color: black;
+    height: 90px;
+    text-align:center
+}
+.classfirst{
+    color: black;
+    background-color: red;
+    padding: 6px;
+    text-align: center;
+    
+}
+h3{
+    text-align:center
+}
+h4{
+    text-align: center;
+}
+body{
+    background-color: rgb(170, 255, 0)
+}
+.center{
+    display: block;
+    margin: auto;
+}
+.classfirst:hover{
+    color: blue;
+}
+
+#heading
+{
+    font-size: 40px;padding-top: 40px;
+}
+div:hover {
+    color: blue;
+}
