@@ -20,10 +20,6 @@
     margin-right: auto;
     width: 30%;
   }
-  .steps{
-    display: block;
-    width: 20%;
-  }
 
   #heading1 {
     
@@ -36,28 +32,44 @@
   }
   #section1{
       background-color: #E0E0E0;
+      float: center;
+      
+      
   }
-  .steps{
-      width: 20%;
-      float: left;
-      display: inline;
-      padding-left: 50px;
-  }
+  
   #heading2{
     padding: 5px;
     font-size: 30px;
-    text-align: center;
+    margin-left: 300px;
     font-weight: 600;
+    padding-top: 20px;
       
       }
   #headers{
     background-color: #B0C4DE;
   }
 
-  .data{
-    font-size: 20px;
-    padding: 10px;
-    margin: 3px;
-    text-align: center;
-    
+  .data
+  {
+    padding: 5px;
+    font-size: 30px;
+    margin-left: 300px;
+  }
+  
+  #image
+  {
+      float: right;
+      border: 2px solid black;
+      border-radius: 5px;
+      padding: 5px;
+      margin: 5px;
+  }
+  #image1
+  {
+      float: right;
+      border: 2px solid black;
+      border-radius: 5px;
+      padding: 5px;
+      margin: 5px;
+      padding-right: 20px;
   }
